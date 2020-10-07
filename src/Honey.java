@@ -62,7 +62,7 @@ public class Honey {
             userBean.setBirthday(sdf.parse("1980/10/02"));
             userBean.setAddress("石川");
 
-            Map<String, UserBean> map = new HashMap<>();
+            Map<String, UserBean> map = new HashMap<String, UserBean>();
             map.put("user", userBean);
             XLSTransformer transformer = new XLSTransformer();
             transformer.transformXLS("docs/templete.xls", map, "docs/output.xls");
