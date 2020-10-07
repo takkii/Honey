@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="commons-jexl-2.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/commons-jexl-2.1.1/commons-jexl-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/commons-jexl-2.1.1/commons-jexl-2.1.1-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/commons-jexl-2.1.1/commons-jexl-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/commons-jexl-2.1.1/commons-jexl-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
